@@ -1,0 +1,7 @@
+c:\dev\DirectoryDiff\DirectoryDiff\bin\Release\DirectoryDiff.exe
+c:\dev\DirectoryDiff\DirectoryDiff\bin\Release\DirectoryDiff.pdb
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.frmMain.resources
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.Properties.Resources.resources
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.csproj.GenerateResource.Cache
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.exe
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.pdb

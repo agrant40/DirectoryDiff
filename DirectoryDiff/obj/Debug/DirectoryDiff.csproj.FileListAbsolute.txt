@@ -1,0 +1,8 @@
+c:\dev\DirectoryDiff\DirectoryDiff\bin\Debug\DirectoryDiff.exe
+c:\dev\DirectoryDiff\DirectoryDiff\bin\Debug\DirectoryDiff.pdb
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.csprojResolveAssemblyReference.cache
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.frmMain.resources
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.Properties.Resources.resources
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.csproj.GenerateResource.Cache
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.exe
+c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.pdb
