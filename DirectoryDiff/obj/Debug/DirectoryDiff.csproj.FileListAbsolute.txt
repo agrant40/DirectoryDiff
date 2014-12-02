@@ -6,3 +6,7 @@ c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.Properties.Resources.
 c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.csproj.GenerateResource.Cache
 c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.exe
 c:\dev\DirectoryDiff\DirectoryDiff\obj\Debug\DirectoryDiff.pdb
+C:\dev\directorydiff\DirectoryDiff\bin\Debug\DirectoryDiff.exe.manifest
+C:\dev\directorydiff\DirectoryDiff\bin\Debug\DirectoryDiff.application
+C:\dev\directorydiff\DirectoryDiff\obj\Debug\DirectoryDiff.exe.manifest
+C:\dev\directorydiff\DirectoryDiff\obj\Debug\DirectoryDiff.application
