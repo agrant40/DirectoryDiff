@@ -5,3 +5,7 @@ c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.Properties.Resource
 c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.csproj.GenerateResource.Cache
 c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.exe
 c:\dev\DirectoryDiff\DirectoryDiff\obj\Release\DirectoryDiff.pdb
+C:\dev\directorydiff\DirectoryDiff\bin\Release\DirectoryDiff.exe.manifest
+C:\dev\directorydiff\DirectoryDiff\bin\Release\DirectoryDiff.application
+C:\dev\directorydiff\DirectoryDiff\obj\Release\DirectoryDiff.exe.manifest
+C:\dev\directorydiff\DirectoryDiff\obj\Release\DirectoryDiff.application
